@@ -113,8 +113,8 @@ Chat dynamically with the extracted content using LangChain + Hugging Face agent
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/<Harsh-Anand-20-06>/OCR-GenAI-Insight-Explorer.git
-cd OCR-GenAI-Insight-Explorer
+git clone https://github.com/<Harsh-Anand-20-06>/SnapTalk.git
+cd SnapTalk
 
 # 2️⃣ Create virtual environment
 python -m venv .venv
